@@ -20,7 +20,7 @@ h2 {
 text-align: center;
 border: 5px;
 border-style: solid;
-border-color: green;
+border-color: black;
 border-top-left-radius:500px;
 border-top-right-radius:500px;
 border-bottom-left-radius:500px;
@@ -31,6 +31,36 @@ margin-left:400px;
 margin-right:400px;
    }
 
+#rodape2 {
+border-top-style: solid;
+background: black;
+margin-bottom: -8px;
+margin-left: -8px;
+margin-right: -8px;
+padding: 1px;
+}
+
+#rodape2{
+color: white;
+text-align:center;
+}
+
 #link {
 text-align:center;
    }
+
+#cabecalho2{
+border-top-style: solid;
+background: black;
+margin-bottom: -8px;
+margin-left: -8px;
+margin-right: -8px;
+margin-top:-12px;
+padding: 1px;
+}
+
+#cabecalho2{
+color: white;
+text-align: center;
+}
+
